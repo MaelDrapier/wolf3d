@@ -74,5 +74,6 @@ AUTHOR
 
 ## Screenshots
 ![screenshot 1](screenshots/screenshot1.png)
+![screenshot 2](screenshots/screeenshot2.png)
 ![screenshot 3](screenshots/screenshot3.png)
 ![screenshot 4](screenshots/screenshot4.png)
