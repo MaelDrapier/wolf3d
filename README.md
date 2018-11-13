@@ -1,5 +1,5 @@
 # wolf3d
-This project was the first big graphical project from my first year at EPITECH (2016-2017).
+This project was one of my first graphical projects from my first year at EPITECH (2016-2017).
 
 The goal was to create a first-person view inside of a maze by using [raycasting](https://en.wikipedia.org/wiki/Ray_casting).
 
@@ -11,13 +11,36 @@ Group size: **1**
 
 Compilation: **on GNU/Linux via Makefile**
 
-Project duration: **~1 month**
+Project duration: **~1 month** (12/12/2016 - 15/01/2017)
 
 The graphic library used is EPITECH's version of the [CSFML](https://github.com/SFML/CSFML) library
 
 <br>
 
-## Authorized functions:
+## Usage
+```
+./wolf3d -h
+USAGE
+		./wolf3d map.txt
+DESCRIPTION
+map.txt		File representing the level for the wolf3d game,
+		containing '0' for places where you can move and '1' for walls;
+		'2' represents the exit, '3' the places where you can refill
+		your battery, and '4' the places where you can reset the timer.
+HOW TO PLAY
+		You can move with the 'ZQSD' keys,
+		and turn the camera with the arrows.
+NIGHT MODE
+		Turn on Nightmode by pressing 'N'. Use flashlight with the 'F' key.
+		To quit Nightmode, press 'B'.
+NOTES
+		An empty map file is considered as nonexistent.
+AUTHOR
+		Made by Mael Drapier
+```
+<br>
+
+## Authorized functions for this project:
 * C Math library (-lm)
 * open
 * close
