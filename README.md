@@ -40,7 +40,7 @@ AUTHOR
 ```
 <br>
 
-## Authorized functions:
+## Authorized functions for this project:
 * C Math library (-lm)
 * open
 * close
