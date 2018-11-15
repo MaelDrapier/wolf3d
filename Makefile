@@ -15,7 +15,7 @@ RM	=	rm -f
 CFLAGS	+=	-W -Wextra -Wall -Werror
 CFLAGS	+=	-I include/
 
-LDFLAGS	=	-Wl,-rpath=./lib/ -L ./lib/ -lc_graph_prog -lm
+LDFLAGS	=	-lcsfml-graphics -lcsfml-window -lm
 
 NAME	=	wolf3d
 
