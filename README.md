@@ -15,8 +15,8 @@ Project duration: **~1 month** (12/12/2016 - 15/01/2017)
 
 #### Required library: **CSFML** graphic library
 To install it: 
-* on Debian / Ubuntu: `apt install libcsfml-dev`
-* on Arch Linux: `pacman -S csfml`
+* on Debian / Ubuntu: `sudo apt-get install libcsfml-dev`
+* on Arch Linux: `sudo pacman -S csfml`
 * on other distributions, download it [here](https://www.sfml-dev.org/download/csfml/)
 
 <br>
