@@ -1,7 +1,7 @@
 # wolf3d
 This project was one of my first graphical projects from my first year at EPITECH (2016-2017).
 
-The goal was to create a first-person view inside of a maze by using [raycasting](https://en.wikipedia.org/wiki/Ray_casting).
+The goal was to create a first-person view inside a maze using [raycasting](https://en.wikipedia.org/wiki/Ray_casting).
 
 <br>
 
